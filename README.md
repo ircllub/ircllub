@@ -80,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-<p align="left">I entered the world of programming in 2019 and started my world with the site design section, and after working for a while in the Front-End section as a freelancer, I entered the DevOps section, where I saw the charms of my world. , Like Linux and using different tools that were of particular interest to me. And then I went back to the front-end section, and with the help of my memory and my talents and the help of my friends, I was able to be strong in this section and do very well. I have over 140 active articles in Persian and over 14 articles in English, and I do programming training and experience sharing in spaces such as YouTube. And . . .</p>
+<p align="left">I entered the world of programming in 2019 and started my world with the site design section, and after working for a while in the Front-End section as a freelancer, I entered the DevOps section, where I saw the charms of my world. , Like Linux and using different tools that were of particular interest to me. And then I went back to the front-end section, and with the help of my memory and my talents and the help of my friends, I was able to be strong in this section and do very well. And . . .</p>
 
 <br clear="both">
 
@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" href="#"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
